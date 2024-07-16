@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pywinrm
-URL = https://files.pythonhosted.org/packages/7c/ba/78329e124138f8edf40a41b4252baf20cafdbea92ea45d50ec712124e99b/pywinrm-0.4.3.tar.gz
+URL = https://files.pythonhosted.org/packages/5a/2f/d835c342c4b11e28beaccef74982e7669986c84bf19654c39f53c8b8243c/pywinrm-0.5.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
