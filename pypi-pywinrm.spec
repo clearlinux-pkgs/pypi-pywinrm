@@ -7,7 +7,7 @@
 #
 Name     : pypi-pywinrm
 Version  : 0.5.0
-Release  : 12
+Release  : 13
 URL      : https://files.pythonhosted.org/packages/5a/2f/d835c342c4b11e28beaccef74982e7669986c84bf19654c39f53c8b8243c/pywinrm-0.5.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5a/2f/d835c342c4b11e28beaccef74982e7669986c84bf19654c39f53c8b8243c/pywinrm-0.5.0.tar.gz
 Summary  : Python library for Windows Remote Management
